@@ -1,0 +1,10 @@
+.mu{list-style-type: none;
+	display:flex;
+}
+.mu li{
+	margin: 10px;
+}
+.ra{list-style-type: none;
+	display:flex;
+}
+
